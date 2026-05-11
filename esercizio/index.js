@@ -1,6 +1,6 @@
 "use strict";
 // 1) Quali sono i tipi primitivi principali in TypeScript?
-//  i tipi primitivi sono gli stessi dei JS ma in più c'è any
+//  i tipi primi  tivi sono gli stessi dei JS ma in più c'è any
 // che "rompe" la tipizzazione di TS per rendere una variabile non tipizzata
 // in grado cioè di poter cambiare il suo tipo di primitivo
 // - string
